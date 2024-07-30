@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px 0px;">Publications</h2>
 
-<p style="margin: 2px 0px -20px;">(Co-first author*, corresponding author†)</p>
+<p style="margin: 2px 0px -25px;">(Co-first author*, corresponding author†)</p>
 
 <div class="publications">
 <ol class="bibliography">
@@ -10,12 +10,12 @@
 {% if link.image %}
 <li>
 {% else %}
-<li style="height: 115px;">
+<li style="height: 120px;">
 {% endif %}
 {% if link.image %}
 <div class="pub-row">
 {% else %}
-<div class="pub-row" style="height: 115px;">
+<div class="pub-row" style="height: 120px;">
 {% endif %}
   {% if link.image %} 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 5px;">
@@ -32,7 +32,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 5px;">
       <div class="title"><a href="{{ link.url }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical">{{ link.journal }} <strong>{{ link.volume }}</strong>, {{ link.pages }}  ({{ link.year }})
+      <div class="periodical">{{ link.journal }} <strong>{{ link.volume }}</strong>{% if link.pages %},{% endif %} {{ link.pages }}  ({{ link.year }})
       </div>
     <div class="links">
       {% if link.pdf %} 

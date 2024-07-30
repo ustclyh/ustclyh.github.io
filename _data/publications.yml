@@ -18,18 +18,5 @@ main:
     year: 2024
     pdf: https://arxiv.org/pdf/2304.04295
     url: https://www.nature.com/articles/s41377-024-01435-z
-
-  - title: test
-    authors: test
-    type: 'journal'
-    journal: 'Light: Science & Applications'
-    volume: 13
-    pages: 83
-    year: 2024
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: note test
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/LSA_VSA.jpg
     
