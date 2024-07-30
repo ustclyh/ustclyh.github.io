@@ -1,13 +1,27 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px 0px;">Publications</h2>
+
+<p style="margin: 2px 0px -20px;">(Co-first author*, corresponding author†)</p>
 
 <div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
 
+{% if link.image %}
 <li>
+{% else %}
+<li style="height: 115px;">
+{% endif %}
+{% if link.image %}
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+{% else %}
+<div class="pub-row" style="height: 115px;">
+{% endif %}
+  {% if link.image %} 
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 5px;">
+  {% else %}
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
+  {% endif %}
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% endif %}
@@ -15,10 +29,10 @@
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 5px;">
+      <div class="title"><a href="{{ link.url }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
+      <div class="periodical">{{ link.journal }} <strong>{{ link.volume }}</strong>, {{ link.pages }}  ({{ link.year }})
       </div>
     <div class="links">
       {% if link.pdf %} 
@@ -43,8 +57,6 @@
   </div>
 </div>
 </li>
-
-<br>
 
 {% endfor %}
 

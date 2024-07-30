@@ -1,22 +1,35 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Ultralow-loss integrated photonics enables bright, narrow-band, photon-pair sources
+    authors: Ruiyang Chen, <strong>Yi-Han Luo†</strong>, Jinbao Long, Baoqi Shi, Chen Shen, Junqiu Liu†
+    type: 'journal'
+    journal: 'Physical Review Letters'
+    year: 2024
+    pdf: https://arxiv.org/pdf/2404.13387
+    url: https://journals.aps.org/prl/accepted/2d077Yc6E701539991065a74900740aae86b89df6
+    notes: Accepted
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  - title: A wideband, high-resolution vector spectrum analyzer for integrated photonics
+    authors: <strong>Yi-Han Luo</strong>, Baoqi Shi, Wei Sun, Ruiyang Chen, Sanli Huang, Zhongkai Wang, Jinbao Long, Chen Shen, Zhichao Ye, Hairun Guo and Junqiu Liu
+    type: 'journal'
+    journal: 'Light: Science & Applications'
+    volume: 13
+    pages: 83
+    year: 2024
+    pdf: https://arxiv.org/pdf/2304.04295
+    url: https://www.nature.com/articles/s41377-024-01435-z
+
+  - title: test
+    authors: test
+    type: 'journal'
+    journal: 'Light: Science & Applications'
+    volume: 13
+    pages: 83
+    year: 2024
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    notes: note test
     image: ./assets/img/teaser_example.png
+    
