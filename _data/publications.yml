@@ -7,6 +7,7 @@ main:
     year: 2024
     pdf: https://arxiv.org/pdf/2404.13387
     url: https://journals.aps.org/prl/accepted/2d077Yc6E701539991065a74900740aae86b89df6
+    data: https://zenodo.org/records/12748968
     notes: Accepted
 
   - title: A wideband, high-resolution vector spectrum analyzer for integrated photonics
@@ -18,5 +19,4 @@ main:
     year: 2024
     pdf: https://arxiv.org/pdf/2304.04295
     url: https://www.nature.com/articles/s41377-024-01435-z
-    image: ./assets/img/LSA_VSA.jpg
     
