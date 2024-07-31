@@ -10,12 +10,12 @@
 {% if link.image %}
 <li>
 {% else %}
-<li style="height: 120px;">
+<li>
 {% endif %}
 {% if link.image %}
 <div class="pub-row">
 {% else %}
-<div class="pub-row" style="height: 120px;">
+<div class="pub-row">
 {% endif %}
   {% if link.image %} 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 5px;">
