@@ -43,4 +43,83 @@ main:
     pdf: ./assets/files/pdf/APLPhoton-8-126110.pdf
     bibtex: ./assets/files/bibtex/APLPhoton-8-126110.bib
     url: https://pubs.aip.org/aip/app/article/8/12/126110/2929333
+  
+  - title: Foundry manufacturing of tight-confinement, dispersion-engineered, ultralow-loss silicon nitride photonic integrated circuits
+    authors: Zhichao Ye, Haiyan Jia, Zhangjun Huang, Chen Shen, Jinbao Long, Baoqi Shi, <strong>Yi-Han Luo</strong>, Lan Gao, Wei Sun, Hairun Guo, Jijun He, Junqiu Liu
+    type: 'journal'
+    journal: 'Photonics Research'
+    volume: 11
+    pages: 558
+    year: 2023
+    pdf: ./assets/files/pdf/prj-11-558.pdf
+    bibtex: ./assets/files/bibtex/prj-11-558.bib
+    url: https://opg.optica.org/prj/fulltext.cfm?uri=prj-11-4-558&id=528066
+
+  - title: Recent advances in laser self-injection locking to high-Q microresonators
+    authors: Nikita M Kondratiev, Valery E Lobanov, Artem E Shitikov, Ramzil R Galiev, Dmitry A Chermoshentsev, Nikita Yu Dmitriev, Andrey N Danilin, Evgeny A Lonshakov, Kirill N Min’kov, Daria M Sokol, Steevy J Cordette, <strong>Yi-Han Luo</strong>, Wei Liang, Junqiu Liu, Igor A Bilenko
+    type: 'journal'
+    journal: 'Frontiers of Physics'
+    volume: 18
+    pages: 21305
+    year: 2023
+    pdf: https://link.springer.com/content/pdf/10.1007/s11467-022-1245-3.pdf
+    bibtex: ./assets/files/bibtex/fop-18-21305.bib
+    url: https://link.springer.com/article/10.1007/s11467-022-1245-3
+    notes: Review of laser self-injection locking
+
+  - title: Unconditional and Robust Quantum Metrological Advantage beyond N00N States
+    authors: Jian Qin, Yu-Hao Deng, Han-Sen Zhong, Li-Chao Peng, Hao Su, <strong>Yi-Han Luo</strong>, Jia-Min Xu, Dian Wu, Si-Qiu Gong, Hua-Liang Liu, Hui Wang, Ming-Cheng Chen, Li Li, Nai-Le Liu, Chao-Yang Lu, Jian-Wei Pan
+    type: 'journal'
+    journal: 'Physical Review Letters'
+    volume: 130
+    pages: 070801
+    year: 2023
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.070801
+    
+  - title: Robust self-testing of multiparticle entanglement
+    authors: Dian Wu, Qi Zhao, Xue-Mei Gu, Han-Sen Zhong, You Zhou, Li-Chao Peng, Jian Qin, <strong>Yi-Han Luo</strong>, Kai Chen, Li Li, Nai-Le Liu, Chao-Yang Lu, Jian-Wei Pan
+    type: 'journal'
+    journal: 'Physical Review Letters'
+    volume: 127
+    pages: 230503
+    year: 2021
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.230503
+    
+  - title: Phase-programmable gaussian boson sampling using stimulated squeezed light
+    authors: Han-Sen Zhong, Yu-Hao Deng, Jian Qin, Hui Wang, Ming-Cheng Chen, Li-Chao Peng, <strong>Yi-Han Luo</strong>, Dian Wu, Si-Qiu Gong, Hao Su, Yi Hu, Peng Hu, Xiao-Yan Yang, Wei-Jun Zhang, Hao Li, Yuxuan Li, Xiao Jiang, Lin Gan, Guangwen Yang, Lixing You, Zhen Wang, Li Li, Nai-Le Liu, Jelmer J Renema, Chao-Yang Lu, Jian-Wei Pan
+    type: 'journal'
+    journal: 'Physical Review Letters'
+    volume: 127
+    pages: 180502
+    year: 2021
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.180502
+    notes: Jiuzhang 2.0
+    
+  - title: Quantum teleportation of physical qubits into logical code spaces
+    authors: <strong>Yi-Han Luo</strong>, Ming-Cheng Chen, Manuel Erhard, Han-Sen Zhong, Dian Wu, Hao-Yang Tang, Qi Zhao, Xi-Lin Wang, Keisuke Fujii, Li Li, Nai-Le Liu, Kae Nemoto, William J Munro, Chao-Yang Lu, Anton Zeilinger, Jian-Wei Pan
+    type: 'journal'
+    journal: 'PNAS'
+    volume: 118
+    pages: e2026250118
+    year: 2021
+    url: https://www.pnas.org/doi/abs/10.1073/pnas.2026250118
+    
+  - title: Entanglement-free witnessing of quantum incompatibility in a high-dimensional system
+    authors: Dian Wu, Qi Zhao, <strong>Yi-Han Luo</strong>, Han-Sen Zhong, Li-Chao Peng, Kai Chen, Peng Xue, Li Li, Nai-Le Liu, Chao-Yang Lu, Jian-Wei Pan
+    type: 'journal'
+    journal: 'Physical Review Research'
+    volume: 3
+    pages: 023017
+    year: 2021
+    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023017
+    
+  - title: Quantum computational advantage using photons
+    authors: Han-Sen Zhong, Hui Wang, Yu-Hao Deng, Ming-Cheng Chen, Li-Chao Peng, <strong>Yi-Han Luo</strong>, Jian Qin, Dian Wu, Xing Ding, Yi Hu, Peng Hu, Xiao-Yan Yang, Wei-Jun Zhang, Hao Li, Yuxuan Li, Xiao Jiang, Lin Gan, Guangwen Yang, Lixing You, Zhen Wang, Li Li, Nai-Le Liu, Chao-Yang Lu, Jian-Wei Pan
+    type: 'journal'
+    journal: 'Science'
+    volume: 370
+    pages: 1460
+    year: 2020
+    url: https://www.science.org/doi/full/10.1126/science.abe8770
+    notes: Jiuzhang 1.0
     
