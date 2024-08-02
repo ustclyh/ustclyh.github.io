@@ -122,4 +122,48 @@ main:
     year: 2020
     url: https://www.science.org/doi/full/10.1126/science.abe8770
     notes: Jiuzhang 1.0
+
+  - title: Cloning of quantum entanglement
+    authors: Li-Chao Peng, Dian Wu, Han-Sen Zhong, <strong>Yi-Han Luo</strong>, Yuan Li, Yi Hu, Xiao Jiang, Ming-Cheng Chen, Li Li, Nai-Le Liu, Kae Nemoto, William J Munro, Barry C Sanders, Chao-Yang Lu, Jian-Wei Pan
+    type: 'journal'
+    journal: 'Physical Review Letters'
+    volume: 125
+    pages: 210502
+    year: 2020
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.210502
     
+  - title: Experimental nonlocal measurement of a product observable
+    authors: Yuan Li, Han-Sen Zhong, <strong>Yi-Han Luo</strong>, Li-Chao Peng, Chao-Yang Lu, Nai-Le Liu, Jun Zhang, Li Li, Jian-Wei Pan
+    type: 'journal'
+    journal: 'Optica'
+    volume: 6
+    pages: 1199
+    year: 2019
+    url: https://opg.optica.org/abstract.cfm?uri=optica-6-9-1199
+    
+  - title: Quantum teleportation in high dimensions
+    authors: <strong>Yi-Han Luo</strong>, Han-Sen Zhong, Manuel Erhard, Xi-Lin Wang, Li-Chao Peng, Mario Krenn, Xiao Jiang, Li Li, Nai-Le Liu, Chao-Yang Lu, Anton Zeilinger, Jian-Wei Pan
+    type: 'journal'
+    journal: 'Physical Review Letters'
+    volume: 123
+    pages: 070505
+    year: 2019
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.070505
+    
+  - title: Compatibility of causal hidden-variable theories with a delayed-choice experiment
+    authors: He-Liang Huang, <strong>Yi-Han Luo*</strong>, B Bai, Y-H Deng, H Wang, Q Zhao, H-S Zhong, Y-Q Nie, W-H Jiang, X-L Wang, Jun Zhang, Li Li, Nai-Le Liu, Tim Byrnes, JP Dowling, Chao-Yang Lu, Jian-Wei Pan
+    type: 'journal'
+    journal: 'Physical Review A'
+    volume: 100
+    pages: 012114
+    year: 2019
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.012114
+
+  - title: Experimental demonstration of quantum pigeonhole paradox
+    authors: Ming-Cheng Chen, Chang Liu, <strong>Yi-Han Luo</strong>, He-Liang Huang, Bi-Ying Wang, Xi-Lin Wang, Li Li, Nai-Le Liu, Chao-Yang Lu, Jian-Wei Pan
+    type: 'journal'
+    journal: 'PNAS'
+    volume: 116
+    pages: 1549
+    year: 2019
+    url: https://www.pnas.org/doi/abs/10.1073/pnas.1815462116
